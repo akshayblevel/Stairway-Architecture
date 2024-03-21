@@ -1,0 +1,11 @@
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\bin\Debug\net8.0\StairwayApi.SqlStorage.deps.json
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\bin\Debug\net8.0\StairwayApi.SqlStorage.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\bin\Debug\net8.0\StairwayApi.SqlStorage.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\StairwayApi.SqlStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\StairwayApi.SqlStorage.AssemblyInfoInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\StairwayApi.SqlStorage.AssemblyInfo.cs
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\StairwayApi.SqlStorage.csproj.CoreCompileInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\StairwayApi.SqlStorage.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\refint\StairwayApi.SqlStorage.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\StairwayApi.SqlStorage.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.SqlStorage\obj\Debug\net8.0\ref\StairwayApi.SqlStorage.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b7fmsgu2rDz3SyZLPP67kTqlINs2I9MsKJxiQqyg720=",
+  "Source": "StairwayApi.App",
+  "BasePath": "_content/StairwayApi.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\bin\Debug\net8.0\StairwayApi.Services.Contracts.deps.json
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\bin\Debug\net8.0\StairwayApi.Services.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\bin\Debug\net8.0\StairwayApi.Services.Contracts.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\StairwayApi.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\StairwayApi.Services.Contracts.AssemblyInfoInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\StairwayApi.Services.Contracts.AssemblyInfo.cs
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\StairwayApi.Services.Contracts.csproj.CoreCompileInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\StairwayApi.Services.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\refint\StairwayApi.Services.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\StairwayApi.Services.Contracts.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Services.Contracts\obj\Debug\net8.0\ref\StairwayApi.Services.Contracts.dll

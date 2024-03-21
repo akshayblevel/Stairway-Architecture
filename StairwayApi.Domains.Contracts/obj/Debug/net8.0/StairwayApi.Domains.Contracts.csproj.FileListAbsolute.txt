@@ -1,0 +1,11 @@
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\bin\Debug\net8.0\StairwayApi.Domains.Contracts.deps.json
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\bin\Debug\net8.0\StairwayApi.Domains.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\bin\Debug\net8.0\StairwayApi.Domains.Contracts.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\StairwayApi.Domains.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\StairwayApi.Domains.Contracts.AssemblyInfoInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\StairwayApi.Domains.Contracts.AssemblyInfo.cs
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\StairwayApi.Domains.Contracts.csproj.CoreCompileInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\StairwayApi.Domains.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\refint\StairwayApi.Domains.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\StairwayApi.Domains.Contracts.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains.Contracts\obj\Debug\net8.0\ref\StairwayApi.Domains.Contracts.dll

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StairwayApi.Domains/1.0.0": {
+        "dependencies": {
+          "StairwayApi.Domains.Contracts": "1.0.0",
+          "StairwayApi.SqlStorage": "1.0.0"
+        },
+        "runtime": {
+          "StairwayApi.Domains.dll": {}
+        }
+      },
+      "StairwayApi.Domains.Contracts/1.0.0": {
+        "runtime": {
+          "StairwayApi.Domains.Contracts.dll": {}
+        }
+      },
+      "StairwayApi.SqlStorage/1.0.0": {
+        "runtime": {
+          "StairwayApi.SqlStorage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StairwayApi.Domains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StairwayApi.Domains.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StairwayApi.SqlStorage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

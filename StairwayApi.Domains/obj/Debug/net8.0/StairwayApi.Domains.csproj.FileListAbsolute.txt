@@ -1,0 +1,17 @@
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.csproj.AssemblyReference.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.GeneratedMSBuildEditorConfig.editorconfig
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.AssemblyInfoInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.AssemblyInfo.cs
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.csproj.CoreCompileInputs.cache
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.Domains.deps.json
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.Domains.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.Domains.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.Domains.Contracts.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.SqlStorage.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.Domains.Contracts.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\bin\Debug\net8.0\StairwayApi.SqlStorage.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.csproj.CopyComplete
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\refint\StairwayApi.Domains.dll
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\StairwayApi.Domains.pdb
+D:\7989-RND-DotNet8\StairwayApi.App\StairwayApi.Domains\obj\Debug\net8.0\ref\StairwayApi.Domains.dll

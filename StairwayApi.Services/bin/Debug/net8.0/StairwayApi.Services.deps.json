@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StairwayApi.Services/1.0.0": {
+        "dependencies": {
+          "StairwayApi.Domains.Contracts": "1.0.0",
+          "StairwayApi.Services.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "StairwayApi.Services.dll": {}
+        }
+      },
+      "StairwayApi.Domains.Contracts/1.0.0": {
+        "runtime": {
+          "StairwayApi.Domains.Contracts.dll": {}
+        }
+      },
+      "StairwayApi.Services.Contracts/1.0.0": {
+        "runtime": {
+          "StairwayApi.Services.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StairwayApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StairwayApi.Domains.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StairwayApi.Services.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

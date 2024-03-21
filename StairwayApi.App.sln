@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairwayApi.App", "StairwayApi.App\StairwayApi.App.csproj", "{5F70AD89-1F21-4125-BD05-F906713F549F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairwayApi.Services.Contracts", "StairwayApi.Services.Contracts\StairwayApi.Services.Contracts.csproj", "{3030D73D-B8A1-4E51-ADB8-3A4F31D6E205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairwayApi.Services", "StairwayApi.Services\StairwayApi.Services.csproj", "{B262DD95-2647-47A8-8A8F-8CB6732EA18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairwayApi.Domains.Contracts", "StairwayApi.Domains.Contracts\StairwayApi.Domains.Contracts.csproj", "{2372073C-F75A-46A7-89B7-86089A202339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairwayApi.Domains", "StairwayApi.Domains\StairwayApi.Domains.csproj", "{9EB0684F-36BC-4E42-8081-C2782766313E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairwayApi.SqlStorage", "StairwayApi.SqlStorage\StairwayApi.SqlStorage.csproj", "{49C3725F-A2C3-42EC-B476-C65933A8A748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F70AD89-1F21-4125-BD05-F906713F549F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F70AD89-1F21-4125-BD05-F906713F549F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F70AD89-1F21-4125-BD05-F906713F549F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F70AD89-1F21-4125-BD05-F906713F549F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3030D73D-B8A1-4E51-ADB8-3A4F31D6E205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3030D73D-B8A1-4E51-ADB8-3A4F31D6E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3030D73D-B8A1-4E51-ADB8-3A4F31D6E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3030D73D-B8A1-4E51-ADB8-3A4F31D6E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B262DD95-2647-47A8-8A8F-8CB6732EA18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B262DD95-2647-47A8-8A8F-8CB6732EA18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B262DD95-2647-47A8-8A8F-8CB6732EA18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B262DD95-2647-47A8-8A8F-8CB6732EA18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2372073C-F75A-46A7-89B7-86089A202339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2372073C-F75A-46A7-89B7-86089A202339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2372073C-F75A-46A7-89B7-86089A202339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2372073C-F75A-46A7-89B7-86089A202339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB0684F-36BC-4E42-8081-C2782766313E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB0684F-36BC-4E42-8081-C2782766313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB0684F-36BC-4E42-8081-C2782766313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB0684F-36BC-4E42-8081-C2782766313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C3725F-A2C3-42EC-B476-C65933A8A748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C3725F-A2C3-42EC-B476-C65933A8A748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C3725F-A2C3-42EC-B476-C65933A8A748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C3725F-A2C3-42EC-B476-C65933A8A748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E33173-0F00-46D1-9707-B808D2A4CA02}
+	EndGlobalSection
+EndGlobal
